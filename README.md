@@ -73,6 +73,10 @@
         <b>Ethers</b><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/ethers.svg">
       </td>
+      <td width="25%" align="center">
+        <b>MetaMask</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/metamask-icon.svg">
+      </td>
     </tr>
   </tbody>
 </table>
