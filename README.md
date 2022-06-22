@@ -60,6 +60,20 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td>
     </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <b>Solidity</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/solidity.svg">
+      </td>
+      <td width="25%" align="center">
+        <b>Hardhat</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/hardhat-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <b>Ethers</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/ethers.svg">
+      </td>
+    </tr>
   </tbody>
 </table>
 
