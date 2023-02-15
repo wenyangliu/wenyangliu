@@ -78,6 +78,16 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/metamask-icon.svg">
       </td>
     </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <b>Rust</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
+      </td>
+      <td width="25%" align="center">
+        <b>Tauri</b><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tauri.svg">
+      </td>
+    </tr>
   </tbody>
 </table>
 
